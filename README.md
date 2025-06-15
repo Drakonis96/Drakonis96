@@ -13,12 +13,6 @@ I'm a vibe coder who loves to build practical solutions for everyday challenges 
 - 🤖 **AI Integrations:**  
   Always exploring how AI can make life easier, whether it’s by automating mundane tasks or assisting with creative problem-solving.
 
-## 🌱 Currently Exploring
-
-- New ways to integrate AI with productivity tools
-- Expanding my toolbox for server monitoring and automation
-- Experimenting with new tech stacks and frameworks
-
 ## 📚 Featured Projects
 
 Here are some of my main repositories:
