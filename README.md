@@ -42,6 +42,3 @@ Here are some of my main repositories:
 
 Feel free to check out my repositories, open issues, or suggest features. I’m always happy to collaborate or chat about new ideas!
 
----
-
-> “Coding is my playground for solving real-life puzzles—one script at a time.”
