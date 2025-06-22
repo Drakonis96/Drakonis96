@@ -1,19 +1,4 @@
-# 👋 Hi, I’m Drakonis96!
-
-I'm a vibe coder who loves to build practical solutions for everyday challenges on my free time, just for the fun of it! My projects serve many different purposes, from boosting my productivity at work to making server management more enjoyable.
-
-## 🚀 What I Do
-
-- 🧑‍💻 **Workflow Automation:**  
-  Big fan of Notion! I’ve built several tools to supercharge my daily workflow, often sprinkling in a bit of AI to make things even smarter.
-
-- 🛠️ **Server Management:**  
-  I enjoy tinkering with my own server, so I’ve made tools to monitor, manage, and improve my self-hosted experience.
-
-- 🤖 **AI Integrations:**  
-  Always exploring how AI can make life easier, whether it’s by automating mundane tasks or assisting with creative problem-solving.
-
-## 📚 Featured Projects
+# 📚 Featured Projects
 
 Here are some of my main repositories:
 
